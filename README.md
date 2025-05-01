@@ -1,5 +1,7 @@
 # Metal Defect Identification and Classification
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 This repository contains the research and implementation for an automated metal defect detection system. The project compares four popular machine learning models—**K-Nearest Neighbors (KNN)**, **Support Vector Machine (SVM)**, **Naïve Bayes**, and **Random Forest**—to identify and classify defects in metal surfaces. The work was carried out as part of research at the AIML Department, Symbiosis Institute of Technology, Pune, India.
 
 ## Table of Contents
